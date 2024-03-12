@@ -69,8 +69,10 @@ angular:
 We have provide a script fro reference in [teleop.py](/scripts/teleop.py)
 
 You can run the script using
+
 ```sh
-ros2 run turtlebot3_project3 teleop.py```
+ros2 run turtlebot3_project3 teleop.py
+```
 
 ## Add new Python executable
 
