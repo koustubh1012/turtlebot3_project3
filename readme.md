@@ -7,14 +7,14 @@
 Create a workpace
 
 ```sh
-mkdir -p project3_ws\src
-cd ~\project3_ws\src
+mkdir -p project3_ws/src
+cd ~/project3_ws/src
 ```
 
 Clone the reposiory
 
 ```sh
-git clone 
+git clone https://github.com/shantanuparabumd/turtlebot3_project3.git
 ```
 
 Source ROS (Enable ROS commands)
