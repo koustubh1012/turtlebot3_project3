@@ -99,3 +99,10 @@ ros2 run turtlebot3_project3 teleop.py
 ```
 
 
+# Error
+
+* Pynput Module Not Found
+
+```sh
+pip install pynput
+```
