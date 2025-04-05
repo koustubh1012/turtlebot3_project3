@@ -31,7 +31,7 @@ source /opt/ros/galactic/setup.bash
 Build the workspace
 
 ```sh
-cd ~\project3_ws
+cd ~/project3_ws
 colcon build --packages-select turtlebot3_project3
 ```
 
