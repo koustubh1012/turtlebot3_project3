@@ -1,6 +1,11 @@
 # ENPM 661: Path Planning for Autonomous Robots
 ### Instructions for Project3- Phase2
 
+## Map Dimensions
+
+All dimensions are in milimeters.
+
+![map](map.png)
 
 ## Setup
 
