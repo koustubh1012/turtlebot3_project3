@@ -19,7 +19,7 @@ cd ~/project3_ws/src
 Clone the reposiory
 
 ```sh
-git clone https://github.com/shantanuparabumd/turtlebot3_project3.git
+git clone https://github.com/koustubh1012/turtlebot3_project3.git
 ```
 
 Source ROS (Enable ROS commands)
